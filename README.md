@@ -1,4 +1,4 @@
-# <table>
+# <table border="0">
   <tr>
     <td>
       <img src="robot_red_white_filled.gif" width="100"/>
