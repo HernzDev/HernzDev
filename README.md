@@ -4,10 +4,11 @@
       <img src="robot_red_white_filled.gif" width="100"/>
     </td>
     <td align="center">
-      <b>𝑯𝒊 𝑻𝒉𝒆𝒓𝒆, 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑻𝒐 𝑴𝒚 𝑮𝒊𝒕𝑯𝒖𝒃</b>
+      <b style="font-family: 'Kalam', cursive; font-size: 24px;">Hi There, Welcome To My GitHub</b>
     </td>
   </tr>
 </table>
+
 
 ![Baner Github](github-header-image.png)
 
