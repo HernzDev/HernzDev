@@ -1,4 +1,4 @@
-# <img src="robot_red_transparent.gif" width="50"/> 𝑯𝒊 𝑻𝒉𝒆𝒓𝒆, 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑻𝒐 𝑴𝒚 𝑮𝒊𝒕𝑯𝒖𝒃
+# <img src="robot_red_white_filled.gif" width="50"/> 𝑯𝒊 𝑻𝒉𝒆𝒓𝒆, 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑻𝒐 𝑴𝒚 𝑮𝒊𝒕𝑯𝒖𝒃
 
 ![Baner Github](github-header-image.png)
 
