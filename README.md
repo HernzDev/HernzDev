@@ -11,7 +11,7 @@
 </table>
 
 
-![Baner Github](github-header-image.png)
+![Baner Github](Banner.png)
 
 ### Skills
 
